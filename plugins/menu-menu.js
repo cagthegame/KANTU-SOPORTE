@@ -21,6 +21,7 @@ let menu = `👑 𝐁𝐎𝐓 𝐎𝐅𝐂 𝐃𝐄 𝐒𝐎𝐏𝐎𝐑𝐓𝐄
 #setwelcome
 #setbye
 #owner
+#update
 #grupo abirir 
 #grupo cerrar
 #enable antilink
