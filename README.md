@@ -30,3 +30,16 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf MysticSession
 > npm start
 ```
+
+### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/Mystic-Support/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
+- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
+- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
+- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
+- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
+
+## `EDITOR & PORPIETARIO DEL BOT` 
+<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
+  
+`TheMystic-Bot-MD - By Bruno Sobrino`
