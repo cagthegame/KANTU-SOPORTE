@@ -3,6 +3,10 @@
 ### `—◉ 👑 CUENTAS OFICIALES 👑`
 - PAGINA: [https://www.atom.bio/theshadowbrokers-team](https://www.atom.bio/theshadowbrokers-team)
 
+### `—◉ ⚙️ AJUSTES ⚙️`
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/Mystic-Support/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/Mystic-Support/blob/master/config.js)
+
 ### `—◉ 💥 INSTALACION VIA TERMUX 💥`
 
 ```bash
