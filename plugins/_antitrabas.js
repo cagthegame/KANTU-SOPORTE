@@ -23,7 +23,7 @@ export async function before(m, { conn, isAdmin, isBotAdmin, usedPrefix }) {
         	conn.sendMessage(m.chat, { text: `Marcar el chat como leido ✓\n${"\n".repeat(400)}\n=> El número : wa.me/${m.sender.split("@")[0]}\n=> Alias : ${name}\n[ ! ] Acaba de enviar un texto que contiene muchos caracteres que puede ocasionar fallos en los dispositivos`, mentions: [m.sender] }, { quoted: fakemek })
         }, 0)
         setTimeout(() => { 
-        	let responseb = await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
+        	let responseb = conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
                 if (responseb[0].status === "404") return   
             }, 1000)
         } else if (!bot.restrict) return m.reply('[ ! ] Para realizar acciones de eliminación, mi dueño tiene que encender el modo restringido!')
