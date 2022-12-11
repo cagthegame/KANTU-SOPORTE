@@ -3,6 +3,7 @@ import { WAMessageStubType } from '@adiwajshing/baileys'
 export async function before(m) {
 	if (!m.messageStubType || !m.isGroup) return;
 	let edtr = `@${m.sender.split`@`[0]}`
+	let fkontak = m
 	if (m.messageStubType == 21) {
 		await this.sendMessage(m.chat, { text: `${edtr} mengubah Subject Grup menjadi :\n*${m.messageStubParameters[0]}*`, mentions: [m.sender] }, { quoted: fkontak })
 	} else if (m.messageStubType == 22) {
