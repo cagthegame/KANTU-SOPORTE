@@ -1,4 +1,4 @@
-# 💫 𝐌𝐘𝐒𝐓𝐈𝐂 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 💫
+# 💫 ＫＡＮＴＵ  ＳＯＰＯＲＴＥ 💫
 
 ### `—◉ 👑 CUENTAS OFICIALES 👑`
 - PAGINA: [https://www.atom.bio/kantu-bot-team/](https://www.atom.bio/kantu-bot-team/)
